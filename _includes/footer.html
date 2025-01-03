@@ -1,0 +1,39 @@
+<footer class="site-footer h-card">
+    <div class="wrapper">
+      <div class="footer-col-wrapper" style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 20px;">
+  
+        <!-- Redes sociales (correo, GitHub, LinkedIn) -->
+        <div class="footer-col footer-col-1" style="flex: 1; min-width: 200px;">
+          <ul class="social-media-list" style="list-style: none; padding: 0; margin: 0;">
+            <!-- Correo -->
+            <li style="margin-bottom: 10px;">
+              <a href="mailto:{{ site.email }}" style="text-decoration: none; color: inherit;">
+                <svg class="svg-icon" style="margin-right: 8px;"><use xlink:href="/assets/minima-social-icons.svg#email"></use></svg>
+                {{ site.email }}
+              </a>
+            </li>
+            <!-- GitHub -->
+            <li style="margin-bottom: 10px;">
+              <a href="https://github.com/{{ site.github_username }}" style="text-decoration: none; color: inherit;">
+                <svg class="svg-icon" style="margin-right: 8px;"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg>
+                {{ site.github_username }}
+              </a>
+            </li>
+            <!-- LinkedIn -->
+            <li>
+              <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" style="text-decoration: none; color: inherit;">
+                <svg class="svg-icon" style="margin-right: 8px;"><use xlink:href="/assets/minima-social-icons.svg#linkedin"></use></svg>
+                {{ site.linkedin_username }}
+              </a>
+            </li>
+          </ul>
+        </div>
+  
+        <!-- Descripción del blog -->
+        <div class="footer-col footer-col-2" style="flex: 2; min-width: 300px; text-align: right;">
+          <p style="margin: 0;">{{ site.description }}</p>
+        </div>
+  
+      </div>
+    </div>
+  </footer>  
