@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="home">
-  <h1>{{ page.title | default: site.title }}</h1>
+  <h1>{{ page.title | default: ""}}</h1>
 
   <div class="post-list">
     {% for post in site.posts %}
@@ -11,13 +11,13 @@ layout: default
 
         <!-- Muestra la imagen del post si está definida -->
         {% if post.image %}
-          <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" style="width: 150px; height: 150px; margin-right: 20px; border-radius: 8px;">
+          <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" style="width: 200px; height: 150px; margin-right: 20px; border-radius: 8px;">
         {% endif %}
 
-        <!-- Título y descripción del post -->
+        <!-- Título, fecha y descripción del post -->
         <div>
+          <p><small>{{ post.date | date: "%b %-d, %Y" }}</small></p> <!-- Fecha encima del título -->
           <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-          <p><small>{{ post.date | date: "%B %d, %Y" }}</small></p>
           <p>{{ post.description | default: "Sin descripción disponible." }}</p>
         </div>
       </div>

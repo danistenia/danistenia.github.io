@@ -2,7 +2,7 @@
 layout: post
 title: "Utilizando un planner durante todo 2024"
 description: "Recibí un regalo de mi novia para partir el año 2024 y fue un planner. Aquí cuento mi experiencia luego de utilizarlo durante un año completo en mi trabajo."
-image: ../imgs/planner.jpg
+image: ../imgs/DSC00121.JPG
 ---
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
