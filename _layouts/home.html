@@ -7,18 +7,18 @@ layout: default
 
   <div class="post-list">
     {% for post in site.posts %}
-      <div class="post-item" style="display: flex; margin-bottom: 20px; align-items: flex-start;">
+      <div class="post-item" style="display: flex; margin-bottom: 20px; align-items: center;">
 
         <!-- Muestra la imagen del post si está definida -->
         {% if post.image %}
-          <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" style="width: 200px; height: 120px; margin-right: 20px; border-radius: 8px; object-fit: cover; float: left;">
+          <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" style="width: 200px; height: 120px; margin-right: 20px; border-radius: 8px; object-fit: cover; flex-shrink: 0;">
         {% endif %}
 
         <!-- Título, fecha y descripción del post -->
-        <div>
-          <p><small>{{ post.date | date: "%b %-d, %Y" }}</small></p> <!-- Fecha encima del título -->
-          <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-          <p>{{ post.description | default: "Sin descripción disponible." }}</p>
+        <div style="display: flex; flex-direction: column; justify-content: center;">
+          <p style="margin: 0; color: #666; font-size: 0.9em;"><small>{{ post.date | date: "%b %-d, %Y" }}</small></p>
+          <h2 style="margin: 5px 0;"><a href="{{ post.url | relative_url }}" style="text-decoration: none; color: #007ACC;">{{ post.title }}</a></h2>
+          <p style="margin: 5px 0; color: #333;">{{ post.description | default: "Sin descripción disponible." }}</p>
         </div>
       </div>
 

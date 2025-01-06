@@ -2,7 +2,7 @@
 layout: post
 title: "¿Cómo llegué a ser Data Scientist"
 description: "En este post hablo un poco de lo que ha sido mi breve carrera"
-image: ../imgs/dani.jpeg
+image: ../imgs/dani_hd.JPG
 ---
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
