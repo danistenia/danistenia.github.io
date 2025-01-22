@@ -1,9 +1,9 @@
-_site
+#_site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
 vendor
 Gemfile.lock
-imgs
+#imgs
 .DS_Store
 /_posts/copia_template.markdown
