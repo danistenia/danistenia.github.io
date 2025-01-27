@@ -2,7 +2,7 @@
 layout: post
 title: "Utilizando un planner durante todo 2024"
 description: "Recibí un regalo de mi novia para partir el año 2024 y fue un planner. Aquí cuento mi experiencia luego de utilizarlo durante un año completo dentro de mi día a día laboral."
-image: ../imgs/DSC00121.JPG
+image: /imgs/portada_post_1.JPG
 ---
 
 <img src="/imgs/portada_post_1.JPG" style="width: 100%; max-width: none; margin: 0 auto; display: block;" alt="Planner">
