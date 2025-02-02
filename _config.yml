@@ -18,12 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: El blog del Dani
+title: "Ideas en Papel"
+subtitle: "by Dani"
 name: Daniel Vargas
 email: danielv464@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  📓 Este es mi espacio personal para escribir sobre AI, productividad, ideas, etc.
-  Nace de la necesidad de plasmar lo que hay en mi cabeza en alguna pequeña parte del mundo 🌎.
+  📓 Este es mi espacio personal para escribir 
+  sobre AI, productividad, ideas, etc.
+  Nace de la necesidad de plasmar lo que hay en mi cabeza 
+  en alguna pequeña parte del mundo 🌎.
 
 
 baseurl: "" # the subpath of your site, e.g. /blog

@@ -2,13 +2,10 @@
 layout: post
 title: "Utilizando un planner durante todo 2024"
 description: "Recibí un regalo de mi novia para partir el año 2024 y fue un planner. Aquí cuento mi experiencia luego de utilizarlo durante un año completo dentro de mi día a día laboral."
-image: ../imgs/DSC00121.JPG
+image: /imgs/portada_post_1.JPG
 ---
 
 <img src="/imgs/portada_post_1.JPG" style="width: 100%; max-width: none; margin: 0 auto; display: block;" alt="Planner">
-
-
-
 
 ## Introducción
 
@@ -18,7 +15,7 @@ En algún domingo de noviembre del 2023 fui invitado a la casa de mis suegros, l
 
 Quisiera anotar algunas lecciones/consejos/reflexiones que he aprendido durante este año de uso, y que quizás puedan ayudarte en tu camino si es que decides probar esta tendencia que en nuestra actualidad podría ser tildada de un hábito Hipster.
 
-1. <ins>La magia del papel y el lápiz</ins>: No sé si te pasa, pero leer un libro físico pareciera ser que fuese mejor que leer uno en formato digital. Pueden ser muchas razones, el olor a libro, la comodidad, el descanso de la vista, poder marcar en la página que vas y ver *in situ* cuánto te falta, dejar ese libro dentro de tu estante de los "leídos", etc. Como que existiera algo de magia también en anotar con tu propia mano en un papel algo que no quieres olvidar. Por otro lado, está el placer de poder tachar como logradas o realizadas aquellas famosas listas de pendientes, es como si esa acción **física** en el mundo real representara la eliminación de esa tarea de tus pendientes. En fin, esta observación apela a mi satisfacción de anotar e ir tachando como "terminado" aquello que me propuse.
+1. <ins>La magia del papel y el lápiz</ins>: No sé si te pasa, pero leer un libro físico pareciera ser que fuese mejor que leer uno en formato digital. Pueden ser muchas razones, el olor a libro, la comodidad, el descanso de la vista, poder marcar en la página que vas y ver *in situ* cuánto te falta, dejar ese libro dentro de tu estante de los "leídos", etc. Como que existiera algo de magia también en anotar con tu propia mano en un papel algo que no quieres olvidar. En fin, esta observación apela a mi satisfacción de anotar e ir tachando **físicamente** como "terminado" aquello que me propuse.
 
 2. <ins>Constancia y repetición</ins>: El hecho que yo decida o tú decidas comprar un planner no significa que nos ordenará la vida, como siempre ocurre, estas son solo herramientas cuyo éxito depende exclusivamente del uso que nosotros le demos. Por lo tanto, adaptarse al uso recurrente para mí no fue tan fácil. Diría que hay 2 cosas que son importantísimas en las que tu planner te puede ayudar y así mismo son las más difíciles de lograr:
 
@@ -36,7 +33,7 @@ Quisiera anotar algunas lecciones/consejos/reflexiones que he aprendido durante 
 
 5. <ins>Menos distracción que un dispositivo digital</ins>: Si decides anotar tus tareas en un planner o una libreta, puede ser más beneficioso que un dispositivo digital si es que lo pensamos desde el punto de vista de tu atención y distracción, me explico. Si estás anotando tareas o pendientes de manera digital es fácil distraerte con notificaciones, conversaciones de WhatsApp, etc. Por otro lado, si es que decides ocupar tu libreta/planner para estos fines, solo tiene una sola y única función a diferencia de los dispositivos multi-propósito. 
 
-7. <ins>No mezclar anotaciones de tu vida personal con las de tu trabajo</ins>: Sé que sería complicado tener 2 planners, pero personalmente tengo un planner para el trabajo y para mi vida personal tengo una libreta que me acompaña. Esto suena razonable si pensamos en lo que nos pasó a todos con la pandemia, nuestra casa centralizó todas nuestras actividades y eso nos llevó a encontrar dificultades para separar nuestros espacios personales, cotidianos y laborales. Si puedes hacerlo con tu planner también sería algo que recomendaría, no mezclar tu vida personal con tu planner laboral. (Lo hice y no me gustó ver mi lista de supermercado junto con un "Debo enviar el correo de las métricas del proyecto X")
+7. <ins>No mezclar anotaciones de tu vida personal con las de tu trabajo</ins>: Sé que sería complicado tener 2 planners, pero personalmente tengo un planner para el trabajo y para mi vida personal tengo una libreta que me acompaña. Esto suena razonable si pensamos en lo que nos pasó a todos con la pandemia, nuestra casa centralizó todas nuestras actividades y eso nos llevó a encontrar dificultades para separar nuestros espacios personales, cotidianos y laborales. Si puedes hacerlo con tu planner también sería algo que recomendaría, no mezclar tu vida personal con tu planner laboral.
 
 8. <ins>Liberar espacio en tu cabeza</ins>: Cuando leí "Sherlock Holmes: Estudio en Escarlata" de Sir Conan Doyle, hubo un párrafo que llamó mucho mi atención, tanto es así que lo he citado en conversaciones e incluso lo estoy aplicando en mi vida. (Sí, estoy aplicando algo en mi vida de un libro de ficción jaja)
 Para ponerte en contexto, Watson, sorprendido de que Sherlock no recordara o no supiera datos de cultura general, le pregunta a Sherlock sobre este hecho, él responde: 
