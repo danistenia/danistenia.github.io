@@ -1,4 +1,52 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-02-02T10:17:41-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Ideas en Papel</title><subtitle>📓 Este es mi espacio personal para escribir  sobre AI, productividad, ideas, etc. Nace de la necesidad de plasmar lo que hay en mi cabeza  en alguna pequeña parte del mundo 🌎.</subtitle><entry><title type="html">Utilizando un planner durante todo 2024</title><link href="http://localhost:4000/2025/01/22/post_1_planner.html" rel="alternate" type="text/html" title="Utilizando un planner durante todo 2024" /><published>2025-01-22T00:00:00-03:00</published><updated>2025-01-22T00:00:00-03:00</updated><id>http://localhost:4000/2025/01/22/post_1_planner</id><content type="html" xml:base="http://localhost:4000/2025/01/22/post_1_planner.html"><![CDATA[<p><img src="/imgs/portada_post_1.JPG" style="width: 100%; max-width: none; margin: 0 auto; display: block;" alt="Planner" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-02-11T00:59:40-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Ideas en Papel</title><subtitle>📓 Este es mi espacio personal para escribir  sobre AI, productividad, ideas, etc. Nace de la necesidad de plasmar lo que hay en mi cabeza  en alguna pequeña parte del mundo 🌎.</subtitle><entry><title type="html">200 páginas de Software Engineering for Data Scientists</title><link href="http://localhost:4000/2025/02/06/post_2_sefds.html" rel="alternate" type="text/html" title="200 páginas de Software Engineering for Data Scientists" /><published>2025-02-06T00:00:00-03:00</published><updated>2025-02-06T00:00:00-03:00</updated><id>http://localhost:4000/2025/02/06/post_2_sefds</id><content type="html" xml:base="http://localhost:4000/2025/02/06/post_2_sefds.html"><![CDATA[<p><img src="/imgs/portada_post_2.JPG" style="width: 100%; max-width: none; margin: 0 auto; display: block;" alt="Planner" /></p>
+
+<h2 id="introducción">Introducción</h2>
+
+<p>En un post de la autora de este libro (Catherine Nelson) leí que estaba a punto de lanzar su 2do. libro titulado: “Software Engineering for Data Scientists - From Notebooks to Scalable Systems”, en cuanto leí el título, sentí que <strong>necesitaba</strong> este libro porque representaba muy bien lo que venía haciendo en ese tiempo, que era alejarme un poco del uso de los Jupyter Notebooks. 
+Finalmente, con la ansiedad que me caracteriza, hice un pre-order del libro en Amazon y lo compré a casi el doble de lo que vale ahora jajaja (me costó 80 USD aprox.). Esperé tanto este libro que cuando lo recibí me lo devoré y creo que es de los pocos libros de O’Reilly que he leído casi al 90%. En esta edición de Ideas en Papel desglosamos el trabajo de Catherine Nelson, si vale la pena comprarlo, de qué trata y si me ha servido en mi carrera.</p>
+
+<h2 id="desmenuzando-el-libro">Desmenuzando el Libro</h2>
+
+<p>En primer lugar, vamos a partir <strong>rapidísimo</strong>, a mí el libro me gustó. Lo recomendaría para personas que:</p>
+
+<ul>
+  <li>Son Data Scientist, si no lo eres no lo recomiendo. Y si eres Data Scientist le podrías sacar más provecho si eres Data Scientist Senior.</li>
+  <li>Estén interesadas en seguir mejorando su forma de programar.</li>
+  <li>Se interesen en programar de forma más modular. (!Ojo¡ el libro explica algo de esto, pero no te dice el cómo. Explicaré eso más abajo.)</li>
+  <li>Utilicen ya OOP. (Programación orientada a objetos)</li>
+  <li>Quieren aprender buenas prácticas aplicadas a la ciencia de datos. (Diría que el libro se basa mucho en esto)</li>
+  <li>Busquen conocer nuevas herramientas y sumarlas a su arsenal. (Hay harto de State of the art y muchas opciones para distintos propósitos)</li>
+</ul>
+
+<p>Si no estás dentro del grupo o listado que puse más arriba, no sé si valdría la pena comprarlo. Hay que ser práctico, si no te están evaluando por programar bien o sientes que puedes vivir con los notebooks (.pynb) está perfecto, incluso diría que podrías aburrirte con el libro.</p>
+
+<p>En segundo lugar, el core del libro y todo su propósito se basa en mostrar el cómo técnicas de Ingeniería de Software han llegado al mundo de los científicos de datos y el porqué son importantes. Dicho esto, te encontrarás con muchos, pero MUCHOS pequeños tips para optimizar y mejorar tu trabajo como DS. Para mí lo más importante es que estas técnicas provenientes del mundo del Software Engineering están con casos de uso aplicados a la ciencia de datos así que se hizo un muy buen trabajo de la autora incorporando ejemplos aplicados al contexto. 
+Entre algunas de las cosas que encontrarás en el libro están:</p>
+
+<ol>
+  <li>Linters.</li>
+  <li>Code formatters.</li>
+  <li>Uso de loggings.</li>
+  <li>Estructura de carpetas para desarrollos de Data Science. (Algo así como el clásico Cookiecutter)</li>
+  <li>Testings.</li>
+  <li>Github actions.</li>
+  <li>Pre-commit hooks.</li>
+  <li>Documentación de tu código.</li>
+  <li>Cómo analizar el performance de tu código.</li>
+</ol>
+
+<p>Si leíste bien en el párrafo de arriba, puse <strong>tips</strong> y pienso que lo “malo” de este texto es que no profundiza mucho en ningún tópico, tiene un enfoque más bien práctico y <em>straightforward</em> como dicen los gringos. Me hubiese gustado quizás que se profundizara más en los tópicos, de hecho este libro perfectamente podría ser un conjunto de blog posts con cada uno de los capítulos o tópicos que se tratan. Siempre se dice que uno puede aprender solo, que todo está en internet, pero finalmente el mérito de los libros o los programas universitarios está en que nos resumen y ordenan grandes cantidades de información.</p>
+
+<p>Por último e <strong>importantísimo</strong>, podría decir que la premisa del libro “From Notebooks to Scalable Systems” no se cumple, es decir, que no se otorga una receta paso a paso para que nosotros la implementemos, pero sí se entregan muchos consejos, herramientas y conocimiento que nos permiten armar este gran rompecabezas. Queda a responsabilidad del lector implementar y probar cada una de estas prácticas. (¡Ojo! En la implementación de buenas prácticas puede que tardes más y no veas el beneficio en el corto plazo, pero como consejo apunta al largo plazo)</p>
+
+<h2 id="recomiendo-o-no">¿Recomiendo o no?</h2>
+
+<p>Si me hago la pregunta: <em>¿Me ha servido?</em>, respondería <strong>mucho</strong>.</p>
+
+<p>Primero, he implementado harto de lo que he aprendido (ha necesitado un trabajo personal importante y también leer hartas documentaciones, no basta con lo del libro), lo segundo es que en mi equipo he agendado varias sesiones de aprendizaje respecto a tópicos que trata el libro. Creo que con el hecho de aportar en mi día a día y en mi equipo es suficiente para decir que el libro se pagó. Solo ten en consideración lo que mencioné antes respecto a la profundidad y el enfoque práctico. Finalmente, buen material y gran esfuerzo de Catherine por resumir temas que están lejos de nuestro mundo y que, sin duda, hemos visto en alguno que otro repositorio en Github y no conocíamos el porqué de su origen. Si no te decides aún, échale una mirada al 
+índice de contenidos.</p>
+
+<p><a href="https://www.amazon.com/Software-Engineering-Data-Scientists-Notebooks/dp/1098136209">Sofware Engineering for Data Scientists</a></p>]]></content><author><name></name></author><summary type="html"><![CDATA[Luego de 200 páginas de este libro creo estar en condiciones de hacer un review y si creo que vale la pena o no comprarlo. De los pocos libros de O'Reilly que he leído casi al 100%.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/imgs/thumbnail_p2.JPG" /><media:content medium="image" url="http://localhost:4000/imgs/thumbnail_p2.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Utilizando un planner durante todo 2024</title><link href="http://localhost:4000/2025/01/22/post_1_planner.html" rel="alternate" type="text/html" title="Utilizando un planner durante todo 2024" /><published>2025-01-22T00:00:00-03:00</published><updated>2025-01-22T00:00:00-03:00</updated><id>http://localhost:4000/2025/01/22/post_1_planner</id><content type="html" xml:base="http://localhost:4000/2025/01/22/post_1_planner.html"><![CDATA[<p><img src="/imgs/thumbnail_p1.PNG" style="width: 100%; max-width: none; margin: 0 auto; display: block;" alt="Planner" /></p>
 
 <h2 id="introducción">Introducción</h2>
 
@@ -57,4 +105,4 @@ Para ponerte en contexto, Watson, sorprendido de que Sherlock no recordara o no 
 <h2 id="recomiendo-o-no">¿Recomiendo o no?</h2>
 
 <p>¿Sería muy aburrido decir “depende” verdad? Así que, dado que este espacio es personal te diría que luego de 1 año completo utilizándolo te lo recomiendo 100%. Volví a recibir (otra vez mi novia sorprendiéndome) este 2025 otro planner que me acompañará durante todo este año 2025 y que espero vuelva ayudarme durante este año tan especial. 
-Espero haberte motivado y mostrado algunas de las ideas que en algún momento del año pasado pasaron por mi cabeza y que hoy, al igual que mis pendientes en el planner no quedan en la nube o en notas, sino que son registradas en este blog y en el primer post de Ideas en Papel.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Recibí un regalo de mi novia para partir el año 2024 y fue un planner. Aquí cuento mi experiencia luego de utilizarlo durante un año completo dentro de mi día a día laboral.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/imgs/portada_post_1.JPG" /><media:content medium="image" url="http://localhost:4000/imgs/portada_post_1.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+Espero haberte motivado y mostrado algunas de las ideas que en algún momento del año pasado pasaron por mi cabeza y que hoy, al igual que mis pendientes en el planner no quedan en la nube o en notas, sino que son registradas en este blog y en el primer post de Ideas en Papel.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Recibí un regalo de mi novia para partir el año 2024 y fue un planner. Aquí cuento mi experiencia luego de utilizarlo durante un año completo dentro de mi día a día laboral.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/imgs/thumbnail_p1.PNG" /><media:content medium="image" url="http://localhost:4000/imgs/thumbnail_p1.PNG" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
