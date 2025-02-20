@@ -21,4 +21,15 @@ Te muestro los resultados de inmediato para motivarte:
 
 ## ¿Cómo?
 
-Acá tenemos que ver cómo lo hacemos...
+Lo primero que tenemos que hacer es definir algo que en marketing se llama *perfil de cliente*. En el perfil de cliente describimos al cliente en sus características y descricipción ideal dado lo que yo quiero comunicar como marca o lo que quiero vender. (Estoy sobre simplificando el ejemplo porque no es el objetivo del post)
+
+Para el caso de nosotros haremos un caso guiado. Tomaremos a la cuenta MACH, la cual al parecer segun lo que podemos observar en la página (https://www.somosmach.com/) tiene un perfil de cliente más orientado hacia los jóvenes. Ahora, ¿Cómo defino el perfil de cliente sin tener la descripción oficial por el equipo de marca de MACH? Buena pregunta! Lo que haré será meterme a la página de MACH, descargar las imágenes que en su página tengan a personas y luego tomaré estas imagenes y se las pasaré a una inteligencia artificial para que genere un perfil de cliente sobre el cual podamos iterar.
+
+[MOSTRAR EL BRIEF DE CLIENTE HECHO POR LA IA]
+
+
+
+
+
+
+
