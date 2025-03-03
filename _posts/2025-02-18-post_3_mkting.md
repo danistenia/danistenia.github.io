@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Creando imágenes para Marketing con GenAI"
+title: "¿IA en Marketing? Cómo las Imágenes Generativas Están Cambiando el Juego"
 description: "En mi trabajo me tocó generar imágenes con GenAI para campañas de marketing. Quise desafiarme e ir un poco más allá con un desafío distinto e interesante."
 image: /imgs/imagen_portada_post3_v6.jpeg
 ---
