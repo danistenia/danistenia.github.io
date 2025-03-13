@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hice un Máster en IA, Te cuento mi experiencia (In Depth)"
+title: "Hice un Máster en IA, te cuento mi experiencia y respuestas a preguntas típicas."
 description: "Probando descripción para el post del MIA de la PUC."
 image: /imgs/DSC00227.JPG
 ---
