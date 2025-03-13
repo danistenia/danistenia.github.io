@@ -1,94 +1,205 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-03-10T08:53:12-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Ideas en Papel</title><subtitle>📓 Este es mi espacio personal para escribir  sobre AI, productividad, ideas, etc. Nace de la necesidad de plasmar lo que hay en mi cabeza  en alguna pequeña parte del mundo 🌎.</subtitle><entry><title type="html">Hice un Máster en IA, ¿Te lo recomiendo?</title><link href="http://localhost:4000/2025/03/09/post_4_magister.html" rel="alternate" type="text/html" title="Hice un Máster en IA, ¿Te lo recomiendo?" /><published>2025-03-09T00:00:00-03:00</published><updated>2025-03-09T00:00:00-03:00</updated><id>http://localhost:4000/2025/03/09/post_4_magister</id><content type="html" xml:base="http://localhost:4000/2025/03/09/post_4_magister.html"><![CDATA[<p><img src="/imgs/DSC00227.JPG" style="width: 100%; max-width: none; margin: 0 auto; display: block;" alt="Planner" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-03-12T23:00:16-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Ideas en Papel</title><subtitle>📓 Este es mi espacio personal para escribir  sobre AI, productividad, ideas, etc. Nace de la necesidad de plasmar lo que hay en mi cabeza  en alguna pequeña parte del mundo 🌎.</subtitle><entry><title type="html">Hice un Máster en IA, Te cuento mi experiencia (In Depth)</title><link href="http://localhost:4000/2025/03/09/post_4_magister.html" rel="alternate" type="text/html" title="Hice un Máster en IA, Te cuento mi experiencia (In Depth)" /><published>2025-03-09T00:00:00-03:00</published><updated>2025-03-09T00:00:00-03:00</updated><id>http://localhost:4000/2025/03/09/post_4_magister</id><content type="html" xml:base="http://localhost:4000/2025/03/09/post_4_magister.html"><![CDATA[<p><img src="/imgs/DSC00227.JPG" style="width: 100%; max-width: none; margin: 0 auto; display: block;" alt="Planner" /></p>
 
 <h2 id="introducción">Introducción</h2>
 
-<p>Recuerdo haber estado cursando el año y medio de magister y un compañero de trabajo (no me caía muy bien) me pregunta:</p>
+<p>Recuerdo haber estado cursando el año y medio de magíster y un compañero de trabajo (no me caía muy bien) me pregunta:</p>
 
 <blockquote>
-  <p>Oye, y el magister… se paga o no? (Haciendo alusión a que si ya tenía retornos de la gran inversión que hacía)</p>
+  <p>-Oye, y el magister… se paga o no? (Haciendo alusión a que si ya tenía retornos de la gran inversión que hacía)</p>
 </blockquote>
 
 <blockquote>
-  <p>En realidad no lo he pensado, cuando entré a estudiar esto nunca lo hice por algo así, solo entré a esto porque quería aprender. Si en algún minuto se paga “bacán”, pero por ahora no estoy pensando en eso.</p>
+  <p>Mi respuesta fue:</p>
 </blockquote>
 
-<p>Creo que aquella respuesta, sin pensarla tanto, es la razón principal por la cual hice un magister en IA y de la cual me siento tremendamente orgulloso. Si nuestro objetivo es algo tan genuino, esencial y personal es muy difícil equivocarse. Si pienso que esa conversación fue 2 años atrás (2023), hoy puedo decir que sí se paga (por lo menos en mí caso).</p>
+<blockquote>
+  <p>-En realidad no lo he pensado, cuando entré a estudiar nunca lo hice por algo así, solo entré a esto porque quería aprender. Si en algún minuto se paga “bacán”, pero por ahora no estoy pensando en eso.</p>
+</blockquote>
 
-<p>Mi postulación y posterior aceptación en el Magister de Inteligencia Artificial de la Pontificia Universidad Católica fue el 23 de diciembre del 2020, es decir, 4 años atrás aproximadamente (el tiempo pasa increiblemente rápido). Ahora, ¿Por qué un magister? ¿Por qué en IA?, ¿Es muy caro?, ¿Lo recomiendo?, todas esas preguntas y algunas reflexiones al respecto, las comentamos en la 4ta edición de Ideas en Papel.</p>
+<p>Aquella respuesta, sin pensarla tanto, es la razón principal por la cual hice un magíster en IA y de la cual me siento tremendamente orgulloso. Si nuestro objetivo es algo tan genuino, esencial y personal, es muy difícil equivocarse. Ahora, claramente no hay ningún problema en que tu motivación para estudiar sea lograr mayores ingresos, aun cuando creo que eso cada vez la industria lo paga menos. Antes valía mucho más hacer un postítulo, ahora es más común y, por ende, se paga menos. 
+Por mi lado, si pienso que esa conversación fue 2 años atrás (2023), hoy puedo decir que sí se paga (por lo menos en mí, caso).</p>
 
-<p>Hace 4 años atrás.</p>
+<p>Mi postulación y posterior aceptación en el Magíster de Inteligencia Artificial de la Pontificia Universidad Católica fue el 23 de diciembre del 2020, es decir, 4 años atrás aproximadamente. Ahora, ¿Por qué un magíster? ¿Por qué en IA?, ¿Es muy caro?, ¿Lo recomiendo?, todas esas preguntas y algunas reflexiones al respecto, las comentamos en la 4ta edición de Ideas en Papel.</p>
+
+<p><strong>TLDR:</strong> <em>Si no quieres leer tanto mi contexto y experiencia, te recomiendo ver la tabla comparativa de los programas y la última sección de preguntas y respuestas.</em></p>
 
 <h2 id="cómo-llegué-a-matricularme-un-poco-de-contexto">¿Cómo llegué a matricularme? Un poco de contexto</h2>
 
-<p>Por aquel tiempo tenía 27 años, estaba trabajando en una consultora de datos, me había leído el artículo que seguramente más de alguno se topó <a href="https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century">“Data Scientist: El trabajo más sexy del siglo 21”</a>, sacando cuentas creo que debo haber leído toda la parte de Machine Learning del libro “Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow” (un clásico), me había hecho los cursos en coursera de la Universidad de Michigan que por aquella época eran un clásico si querías meterte en las áreas de Ciencia de Datos, “sabía” Python, Pandas, muy poco de SQL, lo único que quería era ser Data Scientist y, por último, estaba en una crisis laboral grande. Me estaba gustando mucho el mundo de la ciencia de datos, pero no podía aplicarla y hace 5 años atrás el puesto de Científico de Datos en Chile por lo menos no era tan “masivo” como lo es ahora o se veía bastante menos de lo que se ve ahora.</p>
+<p>Por aquel tiempo tenía 27 años, estaba trabajando en una consultora de datos, me había leído el artículo que seguramente más de alguno se topó <a href="https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century">“Data Scientist: El trabajo más sexy del siglo 21”</a>, sacando cuentas creo haber leído toda la parte de Machine Learning del libro “Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow” (un clásico), me había hecho los cursos en coursera de la Universidad de Michigan que por aquella época eran un clásico si querías meterte en las áreas de Ciencia de Datos, “sabía” Python, Pandas, muy poco de SQL, lo único que quería era ser Data Scientist y, por último, estaba en una crisis laboral grande. Me estaba gustando mucho el mundo de la ciencia de datos, pero no podía aplicarla y 5 años atrás el puesto de Científico de Datos en Chile no era tan “masivo” como lo es ahora o se veía bastante menos de lo que se ve hoy.</p>
 
-<p>En la consultora intenté vender una clusterización, un análisis de sentimiento (la llevaba en esos años) y un clasificador de tópicos, pero lamentablemente la consultora no se dedicaba a esos proyectos y no resultó, pero lo intenté y aprendí mucho, eso es lo importante.
-Desde ese momento señoras y señores decidí 2 cosas, la primera era que quería hacer un Magister en AI o Machine Learning, pero quería hacerlo a tiempo completo por lo menos un par de meses porque quería darle 100% foco a mi decisión y necesitaba tener mi cabeza puesta completamente en este nuevo camino y la segunda era que iba a renunciar a mi trabajo, lo cual hice 1 o 2 meses después.</p>
+<p>En la consultora que trabajaba por esos años, intenté vender una clusterización, un análisis de sentimientos (era “top” en esos años) y un clasificador de tópicos, pero lamentablemente la consultora no se dedicaba a esos proyectos y no me resultó, pero lo intenté y aprendí mucho, eso es lo importante.
+Ante la negativa de los proyectos y esa frustración, decidí 2 cosas. La primera era que quería hacer un Magíster en AI o Data Science para profundizar y aprender, pero quería hacerlo a tiempo completo por lo menos un par de meses porque quería darle 100% foco a mi decisión y la segunda era que iba a renunciar a mi trabajo, lo cual hice 1 o 2 meses después.</p>
 
-<h2 id="eligiendo-el-master">Eligiendo el Master</h2>
+<h2 id="eligiendo-el-máster">Eligiendo el Máster</h2>
 
-<p>Mi primera opción luego de investigar un poco fue el máster de la <a href="https://statistik.tu-dortmund.de/en/studies/degrees/data-science-msc/">Universidad de Dortmund</a> la verdad me hubiese encantado hacerlo ahí, pero estábamos en pandemia y estaba un poco fuera de los plazos de postulación y simplemente sentí que no era el timing.
-Luego ya mirando opciones en Chile tenía:</p>
+<p>Mi primera opción luego de investigar un poco fue el máster de la <a href="https://statistik.tu-dortmund.de/en/studies/degrees/data-science-msc/">Universidad de Dortmund,</a> la verdad me hubiese encantado hacerlo ahí, pero estábamos en pandemia y simplemente sentí que no era el timing. Luego ya mirando opciones en Chile tenía:</p>
 
 <ul>
   <li>El máster de Data Science o AI de la Adolfo Ibáñez. (Mi alma mater)</li>
-  <li>El máster de la Universidad de Chile que lo iban a lanzar el año siguiente a mi búsqueda. (Lamentablemente se iba impartir en la mañana)</li>
+  <li>El máster de la Universidad de Chile que lo iban a lanzar el año siguiente a mi búsqueda. (Lamentablemente, se iba a impartir en la mañana y sigue siendo así)</li>
   <li>El máster de la Universidad del Desarrollo que me inspiró por esta <a href="https://www.youtube.com/watch?v=OcVMcsK43U0">charla</a> de este profesor. (La verdad quedé LOCO con esa charla)</li>
-  <li>El MIA (Magister de inteligencia artificial) de la PUC que comenzaba a abrir sus postulaciones para su primera edición.</li>
+  <li>El MIA (Magíster de inteligencia artificial) de la PUC que comenzaba a abrir sus postulaciones para su primera edición.</li>
 </ul>
 
-<p>Teniendo todas estas opciones decidí hacer una tabla super simple, nada sofistica   da. La tabla que hice fue más o menos, algo similar a esto (Agregué solo una columna que es el precio actual de los programas para que lo tengas de referencia):</p>
+<p>Teniendo todas estas opciones decidí hacer una tabla simple, nada sofisticada. La tabla que hice fue, más o menos, algo similar a la que viene a continuación: (Agregué solo una columna que es el precio actual de los programas para que lo tengas de referencia y agregué más opciones que me llamaron la atención actualmente en el 2025)
+<br />
+<br />
+<em>*Tabla con valores aproximados</em></p>
 
 <table>
   <thead>
     <tr>
       <th>Universidad</th>
-      <th>Programa</th>
+      <th>Máster</th>
       <th>Precio 2020</th>
-      <th>Precio 2024</th>
+      <th>Precio 2025</th>
       <th>Comentario</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Universidad Adolfo Ibáñez</td>
-      <td>Magíster Inteligencia Artificial</td>
-      <td>$ 11.000.000</td>
-      <td>$ 13.300.000</td>
-      <td>comentario</td>
+      <td>U. Adolfo Ibáñez</td>
+      <td>Inteligencia Artificial</td>
+      <td>$11.000.000</td>
+      <td>$13.800.000</td>
+      <td>Vespertino, el más antiguo en Chile.</td>
     </tr>
     <tr>
-      <td>Universidad Adolfo Ibáñez</td>
-      <td>Magíster Data Science</td>
-      <td>$ 11.000.000</td>
-      <td>Fila 1 Col 3</td>
-      <td>comentario</td>
+      <td>U. Adolfo Ibáñez</td>
+      <td>Data Science</td>
+      <td>$11.000.000</td>
+      <td>$17.100.000</td>
+      <td>Vespertino.</td>
     </tr>
     <tr>
-      <td>Universidad de Chile</td>
-      <td>Master of Data Science</td>
+      <td>U. de Chile</td>
+      <td>Data Science</td>
       <td>None</td>
-      <td>$ 11.200.000</td>
-      <td>comentario</td>
+      <td>$11.636.000</td>
+      <td>Este es Diurno.</td>
     </tr>
     <tr>
-      <td>Universidad del Desarrollo</td>
-      <td>Magister en Data Science</td>
-      <td>$ 9.070.000</td>
+      <td>U. del Desarrollo</td>
+      <td>Data Science</td>
+      <td>$9.070.000</td>
       <td>None</td>
-      <td>comentario</td>
+      <td>Revisé la malla, no me gustó.</td>
     </tr>
     <tr>
-      <td>Pontificia Universidad Católica</td>
-      <td>Magister en Inteligencia Artificial</td>
-      <td>$ 14.700.000</td>
-      <td>$ 16.000.000</td>
-      <td>comentario</td>
+      <td>U. Católica</td>
+      <td>Inteligencia Artificial</td>
+      <td>$14.700.000</td>
+      <td>$17.138.000</td>
+      <td>Este fue mi elección.</td>
+    </tr>
+    <tr>
+      <td>U. de Concepción</td>
+      <td>Ciencia de Datos</td>
+      <td>None</td>
+      <td>$13.700.000</td>
+      <td>Me gustó la malla</td>
     </tr>
   </tbody>
 </table>
 
-<p><em>Tabla con valores aproximados</em></p>]]></content><author><name></name></author><summary type="html"><![CDATA[Probando descripción para el post del MIA de la PUC.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/imgs/DSC00227.JPG" /><media:content medium="image" url="http://localhost:4000/imgs/DSC00227.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">¿IA en Marketing? Cómo las Imágenes Generativas Están Cambiando el Juego</title><link href="http://localhost:4000/2025/02/18/post_3_mkting.html" rel="alternate" type="text/html" title="¿IA en Marketing? Cómo las Imágenes Generativas Están Cambiando el Juego" /><published>2025-02-18T00:00:00-03:00</published><updated>2025-02-18T00:00:00-03:00</updated><id>http://localhost:4000/2025/02/18/post_3_mkting</id><content type="html" xml:base="http://localhost:4000/2025/02/18/post_3_mkting.html"><![CDATA[<p><img src="/imgs/imagen_portada_post3_v8.jpeg" style="width: 100%; max-width: none; margin: 0 auto; display: block;" alt="Planner" /></p>
+<figure>
+<figcaption style="text-align: center; font-style: italic;">Tabla 1: Comparación Masters.</figcaption>
+</figure>
+
+<p>Mi elección fue la Pontificia Universidad Católica por 3 razones:</p>
+
+<ul>
+  <li>Tenía una malla muy similar a la Universidad de Dortmund que era donde quería estudiar.</li>
+  <li>La Católica tiene mucho prestigio a nivel industria/país.</li>
+  <li>Busqué los profes, vi los ramos y creí en el proyecto. (Digo proyecto porque eramos la primera generación del programa)</li>
+</ul>
+
+<p>Mi elección fue la Pontificia Universidad Católica por 3 razones:</p>
+
+<ul>
+  <li>Tenía una malla muy similar a la Universidad de Dortmund que era donde quería estudiar.</li>
+  <li>La Católica tiene mucho prestigio a nivel industria/país.</li>
+  <li>Busqué los profes, vi los ramos y creí en el proyecto. (Digo proyecto porque éramos la primera generación del programa)</li>
+</ul>
+
+<h2 id="dentro-del-magíster">Dentro del Magíster</h2>
+
+<p>Una vez dentro del magíster y tomándome un “sabático” del trabajo, pude dedicarme a estudiar solamente. Eso duró solo 7 meses, puesto que empecé a comerme mis ahorros y nunca abandoné mi departamento y mis deudas, así que en algún momento tuve que buscar trabajo y convivir con mi nuevo trabajo y el máster. El trabajo que encontré fue de Data Scientist, que era lo que yo quería en aquel tiempo, y siendo sincero no podría decir que fue gracias al Magíster que encontré ese trabajo.</p>
+
+<p>La carga fue bastante en algunos ramos, hay algunos ramos que son más light, pero honestamente hay ramos que están poco calibrados para la dedicación que una persona en un ritmo laboral puede darle. Recuerdo muchas veces haberme quedado hasta altas horas de la noche resolviendo tareas y trabajando hasta lograr los resultados esperados con base en la exigencia del programa. Me defino como alguien que se siente cómodo, cabeceándose infinito para resolver algo, pero creo que en un momento estuve bastante cansado y “reventado” con la carga de mi trabajo también.</p>
+
+<h2 id="faq-directa-y-al-pie">FAQ: Directa y al pie</h2>
+
+<p>Para los que me conocen suelo siempre autopreguntarme, preguntar o anticiparme a una pregunta y responderme yo solo. Esto se lo copié a un profesor de mi universidad llamado Luis Zegarra. Así que dado eso, haremos como una especie de preguntas a mí mismo y las vamos respondiendo rápido referente al máster de IA de la Católica.</p>
+
+<ol>
+  <li>
+    <p><ins><strong>¿Es caro hacer un magíster en IA?</strong></ins> Sí. Si le echaste un ojo a la tabla es bastante caro (&gt;= 12 millones de pesos chilenos en promedio).</p>
+  </li>
+  <li>
+    <p><ins><strong>¿Es teórico, práctica, gerencial?</strong></ins> Cero gerencial, en mi tiempo había solo un electivo gerencial y era de liderazgo, pero no era liderazgo aplicado a datos o equipos de datos.</p>
+  </li>
+  <li>
+    <p><ins><strong>¿Aplica hacer un máster ahora que GenAI está aumentando el campo de conocimiento y esto cambia cada día más?</strong></ins> Buena pregunta. Creo que varios bloggers de gran reconocimiento como Chip Huyen hablan harto de este tema y yo opino un poco parecido y es que los fundamentos no han cambiado y creo que es difícil que cambien. Se incorporan herramientas, técnicas, formas de abordar problemas, pero los fundamentos siguen siendo los mismos. Por lo tanto, lo sigo recomendando.</p>
+  </li>
+  <li>
+    <p><ins><strong>¿Se paga?</strong></ins> En mi caso se pagó como mencioné en la introducción, pero no sé si el máster (creo que aplica para cualquiera) implique necesariamente que te suban el sueldo, te asciendan, etc. Pienso que depende más de cada uno y entra en juego la suerte, tu capacidad de conectar, moverte, proponer, etc.</p>
+  </li>
+  <li>
+    <p><ins><strong>¿Lo recomiendas?</strong></ins> ¿Por qué? A mí el magíster me gustó y siento que cambió la vida y la forma que veo hoy el mundo de la Inteligencia Artificial y la vida. Creo que me sorprendí con 3 ramos y quedé loco, cuesta sorprenderme y con solo generar ese efecto que se abran los ojos con algo, es suficiente para mí.</p>
+  </li>
+  <li>
+    <p><ins><strong>¿Ramos favoritos?</strong></ins> Mis ramos favoritos fueron Deep Learning 2, Sistemas recomendadores e Information Retrieval. Tremendos ramos y tremendos profes, los admiro.</p>
+  </li>
+  <li>
+    <p><ins><strong>¿Qué le faltó?</strong></ins> En mi generación creo que hubo una falta grande de organización que, hasta donde sé, ya fue arreglada. Lo segundo, falta incorporar un ramo de Cloud, MLOps y GenAI. Las primeras dos son esenciales en la industria y para pasar de la teoría al escenario de problemas reales en los cuales uno se desenvuelve.</p>
+  </li>
+  <li>
+    <p><ins><strong>¿Lo pagarías de nuevo?</strong></ins> Sí.</p>
+  </li>
+  <li>
+    <p><ins><strong>¿Qué tal la carga?</strong></ins> Si lo combinas con tu trabajo la carga es alta y se sufre harto.</p>
+  </li>
+  <li>
+    <p><ins><strong>¿Qué tal la tesis?</strong></ins> Para mí fue terrible (creo que cambiaron el formato ahora) de hecho postergué la tesis un año porque tenía mucho trabajo y tuve que atrasarme un año para titularme. Aun así, el año siguiente fue una odisea, sufrí bastante.</p>
+  </li>
+  <li>
+    <p><ins><strong>¿A quién va dirigido?</strong></ins> Esto es importante, el máster diría que tiene un enfoque más práctico y va dirigido (creo yo) a gente que adora este campo, te tiene que gustar mucho para meterme en una locura así. Lo recomiendo si te encanta, si no creo que no es necesario. Por lo tanto, creo que si quieres emprender (hacer un negocio) en esta área lo recomiendo 1.000%.</p>
+  </li>
+  <li>
+    <p><ins><strong>¿Ocupas cosas aprendidas en el magíster en tu día a día?</strong></ins> No jajaja. Creo que se aprende mucho del estado del arte, algoritmos por detrás, lo que se puede hacer, dónde están los desafíos grandes y qué cosas difíciles se pueden hacer, pero la industria no sé si está a ese nivel o también todo va cambiando.</p>
+  </li>
+  <li>
+    <p><ins><strong>¿Puedes aprender todo esto en internet, libros o “hands-on”?</strong></ins> Claramente que sí. Nuestro campo posee lo que otros campos carecen y es el open-source, pero pocos son los que tienen la disciplina de estudiar solos, saber dónde partir y levantarse día a día dentro de tu vida normal para estudiar 2 años completos con un plan de estudio ordenado. Eso es algo que los programas hacen, ordenar. Ahora, ¿eso vale 12 millones? No lo sé.</p>
+  </li>
+  <li>
+    <p><ins><strong>¿Es necesario un máster para ser líder de un equipo de científicos de datos?</strong></ins> No. Actualmente, lidero un equipo y creo que no es necesario tener un máster para hacerlo.</p>
+  </li>
+  <li>
+    <p><ins><strong>¿Y para ser científico de datos?</strong></ins> Tampoco. Conozco mucha gente que no tiene un master en IA o Data Science y es senior en esto. No lo necesitas.</p>
+  </li>
+  <li>
+    <p><ins><strong>¿Entonces en qué te ha ayudado el magíster?</strong></ins> Creo que consolidar conocimiento, seguridad en el campo, conocimiento de las distintas ramas que tiene el campo de la inteligencia artificial, herramientas para enfrentar distintos problemas, entender bien los desafíos que tiene cada problema. Te da mucho contexto, por lo tanto, sabes bastante bien el tipo de problema que enfrentas con distintos escenarios.</p>
+  </li>
+  <li>
+    <p><ins><strong>¿Sientes que estuvo bien a la edad que lo tomaste?</strong></ins> Creo que hubiese sido mejor a los 30 años. ¿Por qué? Podría haber manejado más la presión, los entregables y más experiencia laboral para ir aplicando mientras aprendía.</p>
+  </li>
+  <li>
+    <p><ins><strong>¿Cómo es la estructura del máster?</strong></ins> Tienes un plan común el primer año y luego ya puedes elegir electivos de tu preferencia junto con 2 ramos por bimestre que los toman todos tus compañeros. La oferta de los electivos es bien variada, así que puedes personalizar harto tu malla según tus intereses.</p>
+  </li>
+  <li>
+    <p><ins><strong>¿Qué beneficios hay por ser estudiante?</strong></ins> Puedes sacar el pase escolar jaja. Y lo otro es que puedes seguir tomando ramos aun cuando estés egresado durante dos años posterior a tu egreso. Y creo que esto solo aplica para los optativos. Puedes ir de oyente a algún curso que veas que te llame la atención.</p>
+  </li>
+  <li>
+    <p><ins><strong>¿Necesito saber IA o Ciencia de Datos para entrar?</strong></ins> Entiendo que te piden 2 años de experiencia en datos y saber programar en Python. El programa está hecho para iniciantes si es que no sabes nada, es decir, que va de menos a más. Ahora bien, creo que le puedes sacar mucho más provecho al programa y a los profesores teniendo un background previo y un trabajo que tenga relación con el campo.</p>
+  </li>
+</ol>
+
+<h2 id="palabras-finales">Palabras finales</h2>
+
+<p>Ojalá haya abarcado dudas que pueden ir saliendo a la hora de elegir o no una maestría en IA y si tienes más dudas puedes escribirme por <a href="https://www.linkedin.com/in/daniel-vargas-3989a4126/">LinkedIn</a>. Finalmente, si te motivaste y quieres hacerlo, solo mentalízate que son 2 años, requiere esfuerzo, tiempo, dedicación y mucha carga, pero si vibras con este campo solamente disfruta el proceso.</p>
+
+<p>Hace un tiempo, una persona me escribió referente a esto mismo y tenía pendiente consolidar eso y otras dudas que me han preguntado referente a realizar un máster. Espero verte por alguno de mis posts y que sigas leyendo el contenido. Nos vemos en la siguiente entrada.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Probando descripción para el post del MIA de la PUC.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/imgs/DSC00227.JPG" /><media:content medium="image" url="http://localhost:4000/imgs/DSC00227.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">¿IA en Marketing? Cómo las Imágenes Generativas Están Cambiando el Juego</title><link href="http://localhost:4000/2025/02/18/post_3_mkting.html" rel="alternate" type="text/html" title="¿IA en Marketing? Cómo las Imágenes Generativas Están Cambiando el Juego" /><published>2025-02-18T00:00:00-03:00</published><updated>2025-02-18T00:00:00-03:00</updated><id>http://localhost:4000/2025/02/18/post_3_mkting</id><content type="html" xml:base="http://localhost:4000/2025/02/18/post_3_mkting.html"><![CDATA[<p><img src="/imgs/imagen_portada_post3_v8.jpeg" style="width: 100%; max-width: none; margin: 0 auto; display: block;" alt="Planner" /></p>
 
 <h2 id="introducción">Introducción</h2>
 
