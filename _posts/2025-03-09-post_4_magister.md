@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Hice un Máster en IA, te cuento mi experiencia y respuestas a preguntas típicas."
-description: "Probando descripción para el post del MIA de la PUC."
+title: "Hice un Máster en IA: Lo bueno, lo malo y lo feo."
+description: "Con honestidad y detalle, revelo lo que implica realmente cursar un Máster en Inteligencia Artificial, desde la selección del programa hasta las noches de estudio y las lecciones aprendidas en el camino."
 image: /imgs/DSC00227.JPG
 ---
 
