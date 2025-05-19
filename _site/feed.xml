@@ -1,4 +1,119 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-03-12T23:17:18-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Ideas en Papel</title><subtitle>📓 Este es mi espacio personal para escribir  sobre AI, productividad, ideas, etc. Nace de la necesidad de plasmar lo que hay en mi cabeza  en alguna pequeña parte del mundo 🌎.</subtitle><entry><title type="html">Hice un Máster en IA, te cuento mi experiencia y respuestas a preguntas típicas.</title><link href="http://localhost:4000/2025/03/09/post_4_magister.html" rel="alternate" type="text/html" title="Hice un Máster en IA, te cuento mi experiencia y respuestas a preguntas típicas." /><published>2025-03-09T00:00:00-03:00</published><updated>2025-03-09T00:00:00-03:00</updated><id>http://localhost:4000/2025/03/09/post_4_magister</id><content type="html" xml:base="http://localhost:4000/2025/03/09/post_4_magister.html"><![CDATA[<p><img src="/imgs/DSC00227.JPG" style="width: 100%; max-width: none; margin: 0 auto; display: block;" alt="Planner" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-05-19T09:10:37-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Ideas en Papel</title><subtitle>📓 Este es mi espacio personal para escribir  sobre AI, productividad, ideas, etc. Nace de la necesidad de plasmar lo que hay en mi cabeza  en alguna pequeña parte del mundo 🌎.</subtitle><entry><title type="html">Volver a creer: Mi reecuentro con los eventos de IA</title><link href="http://localhost:4000/2025/05/10/post_5_ai_tinkerers.html" rel="alternate" type="text/html" title="Volver a creer: Mi reecuentro con los eventos de IA" /><published>2025-05-10T00:00:00-04:00</published><updated>2025-05-10T00:00:00-04:00</updated><id>http://localhost:4000/2025/05/10/post_5_ai_tinkerers</id><content type="html" xml:base="http://localhost:4000/2025/05/10/post_5_ai_tinkerers.html"><![CDATA[<p><img src="/imgs/imagen_portada_post5.jpeg" style="width: 100%; max-width: none; margin: 0 auto; display: block;" alt="IA Tinkerers" /></p>
+
+<h2 id="introducción">Introducción</h2>
+
+<p>Por mi rol actual (Líder de Analítica e IA) me ha tocado con mayor frecuencia asistir a charlas, webinars o conversatorios de IA. Debo reconocer que llegó un punto donde me aburrí. ¿Por qué? Te cuento.</p>
+
+<p>No sé si has notado, pero a Linkedin le está pasando un poco lo mismo que las charlas que me ha tocado ir, ¿Qué cosa sería esa? Tranquilo, te cuento. 
+Tanto las charlas como los post de Linkedin están enfocados o centrados en frases como:</p>
+
+<ul>
+  <li>“La IA está cambiando la forma en cómo hacemos las cosas”</li>
+  <li>“Con la llegada de la IA ya no es una opción…”</li>
+  <li>“La IA es el nuevo potenciador de tu negocio…”</li>
+</ul>
+
+<p>Ok, digamos que eso es cierto (y creo con mucha fuerza que eso es así), pero esas frases son similares a los clásicos 
+tiburones de finanzas/liderazgo/emprendimiento que sobre-simplifican todo o, por lo menos, reducen todo a frases sueltas, vacías.</p>
+
+<p>¿Mi punto? El punto es que si ya entendiste (al igual que yo) que GenAI cambiará nuestro futuro y la de muchas industrias, la pregunta que es mejor (creo) es: ¿Cómo?, o más concreto aún: 
+¿Qué productos, aplicaciones, soluciones están ocupando IA en Chile? Y, por último, ¿para qué y en reemplazo de qué función humana?</p>
+
+<p>Volvamos a la realidad.</p>
+
+<p>Aburrido de las charlas y de saltarme posts en Linkedin, encontré un meet de “Creadores de productos con IA” llamado <a href="https://aitinkerers.org/p/welcome">AI Tinkerers</a> 
+que es una comunidad en muchos países del mundo (incluido <a href="https://santiago.aitinkerers.org/">Chile</a>) donde se realizan encuentros con creadores de productos con IA. 
+Está enfocado en desarrolladores que estén ligados a la inteligencia artificial o simplemente gente con interés referente al tema. En la edición número 5 de “Ideas en Papel” 
+fuimos yo y mi libreta para renovar nuestros votos en las charlas de IA y asistimos al capítulo 3 de IA Tinkerers titulado “Product IA: Make to Making”.</p>
+
+<p>Con esto esperábamos recuperar quizás lo que a muchos nos gustaría: volver a creer. Spoiler: Estamos volviendo a creer.</p>
+
+<h2 id="tl-dr-too-long-didnt-read">TL-DR (Too long, didn’t read)</h2>
+
+<p>Quizás hago de esta sección una tradición como lo hice en el post anterior, entendiendo que es una locura pedir la atención de alguien por más de 5 segundos en nuestros tiempos actuales.
+En resumen, si eres como yo que ya has desarrollado productos apalancados en LLM’s o modelos open source, anda. 
+Si eres Data Scientist y te interesa GenAI, anda. Si eres analista de datos y te interesan estos temas, anda. Si eres desarrollador y también te llaman la atención estos temas, anda. 
+Y si no estás ligado a este mundo muy de cerca, pero quieres entender qué cosas se pueden o están haciendo con esta disciplina (creo que es primera vez que le digo disciplina jaja. Pero, ¿Por qué no?), anda.</p>
+
+<p>En el resumen del resumen, te recomiendo ir si este tema te interesa y quieres aterrizar en algo más concreto.</p>
+
+<h2 id="24-de-abril-de-2025">24 de abril de 2025</h2>
+
+<p>Este día asistí y, como nunca puede faltar en mí, la infaltable impuntualidad. 
+Afortunadamente, partió un poco más tarde y me senté en un sillón un poco apretado en las oficinas de <a href="https://career.softserveinc.com/es/about/chile">Softserve</a>, las cuales estaban bastante pros. 
+Dato que me gustaría que guardaras en tu carpeta de archivos temporales (<em>./temp/</em>), me senté al lado de 3 cabros, digo cabros porque deben haber tenido 22 años. 
+Pensé: “Qué heavy que ya a esa edad les esten enseñando AI en sus universidades”. Guarda este dato que contaré una anécdota un poco más adelante.</p>
+
+<h2 id="el-formato">El formato</h2>
+
+<p>El formato del evento es:</p>
+
+<p>Introducción -&gt; Presentación de 2 exponentes que estén desarrollando algún producto con IA -&gt; Science Fair -&gt; Cierre -&gt; Pizza y Networking.</p>
+
+<p>¿Qué es Science Fair?</p>
+
+<p>Buena pregunta porque yo tampoco sabía. En simple, presenta alguna persona o grupo de la audiencia que previamente postuló con anterioridad al evento. 
+La idea es mostrar, comentar y explicar una idea que se está desarrollando actualmente y que se encuentra en alguna etapa de desarrollo con el objetivo de que los presentes le den feedback. Lo encontré genial, de hecho creo que quiero en algún momento presentar.</p>
+
+<h2 id="los-exponentes">Los exponentes</h2>
+
+<p>Presentó <a href="https://www.linkedin.com/in/franciscodebritofontes/">Franciso de Brito</a> de <a href="https://www.make.com/en">Make</a> que es una plataforma muy parecida a <a href="https://n8n.io/">n8n</a> que permite hacer workflows integrados con muchas otras herramientas solamente haciendo drag and drop. ¿Interesante? Mmm a mí no me llaman mucho la atención estas apps, pero creo que para hacer MVP’s rápidos está bastante bien.</p>
+
+<p>Luego presentó <a href="https://www.linkedin.com/in/aledandrea/">Alejandro D’Andrea</a> de <a href="https://botman-ai.com/">Botman-IA</a> que están trabajando en migrar aplicaciones Legacy con GenAI a lenguajes de programación “más actuales”. Esta presentación me pareció interesante y creo que aquí <strong>hay plata</strong> (Congrats!). Para todos los que trabajan en la industria, saben que existen sistemas que viven dentro de las empresas que dependen de la expertise de trabajadores que llevan mucho tiempo, normalmente no tienen documentación y además, están escritos en lenguajes de programación antiguos como COBOL y Delphi. En este espacio se mostró el caso de uso de una migración de una aplicación legacy escrita en Delphi hacia Java que tomó, segun mis apuntes, 4 meses aproximadamente.</p>
+
+<h2 id="la-parte-de-science-fair">La parte de Science Fair</h2>
+
+<p>Dale doble clic al folder <em>./temp/</em> que te pedí y abramos la carpeta. Al anunciar la sección de Science Fair, 2 de 3 de los chicos que estaban sentados al lado mío en el sillón se pusieron de pie para presentar (sí, iban a presentar) un proyecto de asignación de Box’s desocupados en hospitales públicos con GenAI. Mi primera impresión fue “Bravo!”, qué inspirador ver que chicos tan jóvenes se atrevan a presentar a tan temprana edad y ante una audiencia más longeva que ellos. Al escuchar su pitch levanté la mano para preguntar (si algo me inquieta, me cuesta mucho guardármelo, así que tuve que largar) lo siguiente:</p>
+
+<p>“El problema de asignación es un tanto antiguo… Existen varias formas de resolverlo y una de ellas es mediante algoritmos de optimización. La pregunta, entonces, es: ¿Por qué Inteligencia Artificial Generativa para este problema? ¿Qué problema se resuelve que un algoritmo más tradicional no?”</p>
+
+<p>Oye, pero la pregunta mala onda jajaja.</p>
+
+<p>Mira, la verdad, no lo pensé mucho, solo lo dije. Me ha quedado muy grabado lo de varios autores como Andriy Burkov y el último libro de Chip Huyen: <em>“Trata de evitar como sea utilizar IA para resolver un problema”</em>. 
+Suena un poco raro, pero creo que luego de estar metido un tiempo prudente en la rueda y, siendo un poco más viejo, creo que uno empieza a elegir mucho mejor sus batallas. Saber dónde meter las manos, invertir tu tiempo y evitar sacar la bazooka de la generativa es complicado. 
+Sentí que podía ayudar y contacté a unos de los chicos por Linkedin post charla para ver si podía explicar mejor o guiar respecto a dónde iba mi pregunta.
+Mis disculpas jaja.</p>
+
+<p>Por último, se presentaron 2 personas que están buscando automatizar la revisión de curriculums que hacen los analistas de reclutamiento. Esto con la ayuda de Inteligencia Artificial Generativa. Esta parte también fue mostrada en n8n así que interesante ver que los MVP’s se están moviendo en gran medida a eso o quizás a veces eso ya es suficiente, quién sabe.</p>
+
+<h2 id="cierre">Cierre</h2>
+
+<p>¿Raya para la suma? Recomiendo Chile, me gustó, aunque al principio estuve un poco inquieto, pero buena instancia y me encantó el enfoque. Faltaba algo más del estilo “Dos cucharadas y a la papá” como decimos en Chile.</p>
+
+<p>Ando en búsqueda de crear mi propia empresa o producto de IA y eventos como estos no hacen más que estimular las ganas, la inspiración e impulsar el entusiasmo a tirarse a la piscina. En resumen, me gustó la experiencia y la junta. De hecho, me repetiré el plato para este <strong>29 de mayo de 2025</strong>. Si te veo por ahí, intercambiemos un par de palabras y podemos conversar feliz sobre IA o lo que sea.</p>
+
+<p>Hasta la próxima.</p>
+
+<h2 id="el-bonus-track">El Bonus Track</h2>
+
+<p>Lo que quería agregar son los eventos que vienen respecto a temas de IA. Lo hice a mano y luego con DeepResearch de ChatGPT y creo que nos complementamos, te los dejo a continuación:</p>
+
+<h3 id="mayo">Mayo</h3>
+
+<ul>
+  <li>🗓️ 19/05/2025: Si quieres estudiar: <a href="https://ingenieria.uchile.cl/agenda/228044/charla-informativa-sobre-el-diploma-en-inteligencia-artificial-">Charla informativa: Diplomado IA U de chile</a></li>
+  <li>🗓️ 27/05/2025: <a href="https://www.uc.cl/agenda/actividad/charla-ia-educacion">Encuentro “¿Te has preguntado si la IA podría convertirse en una compañera en tu labor docente?</a></li>
+  <li>🗓️ 28/05/2025: <a href="https://www.nlhpc.cl/eventos/inteligencia-artificial-en-clasificacion-de-imagenes-radiologicas/#:~:text=Inteligencia%20Artificial%20en%20Clasificaci%C3%B3n%20de,funcionan%20las%20Redes%20Neuronales%20Convolucionales">Inteligencia Artificial en Clasificación de Imágenes Radiológicas: Explorando cómo funcionan las Redes Neuronales Convolucionales</a></li>
+  <li>🗓️ 29/05/2025: <a href="https://santiago.aitinkerers.org/">Próximo evento de IA Tinkerers</a> - 🚀 IA Generativa y Minería en LATAM Cap#4*</li>
+</ul>
+
+<p>*Este es el siguiente evento del mismo evento que hablé en este post.</p>
+
+<h3 id="junio">Junio</h3>
+
+<ul>
+  <li>🗓️ 03/06/2025: <a href="https://www.uai.cl/eventos/universidad/summit-ia-uai-oportunidades-y-desafios-de-la-ia-en-la-actualidad">Summit IA UAI. Oportunidades y desafíos de la IA en la actualidad</a></li>
+  <li>🗓️ 04/06/2025 <a href="https://www.dii.uchile.cl/2025/05/15/alejandro-barros-dictara-charla-sobre-inteligencia-artificial-en-la-biblioteca-de-artes-de-la-u-de-chile/">IA: ¿Tecno-optimismo o Tecno-pesimismo?</a></li>
+  <li>🗓️ 03/06 y 04/06 de 2025: Para los con plata jaja: <a href="https://www.singularitychile.com/">Singularity Summit Chile</a></li>
+  <li>🗓️ 11/06/2025: <a href="https://www.uai.cl/eventos/gobierno/inteligencia-artificial-responsable-para-servicios-publicos">Inteligencia artificial responsable para servicios públicos</a></li>
+  <li>12/06 y 13/06 de 2025: Se paga, pero se ve super bueno si estás metido en salud y tecnología. <a href="https://www.alemanacursos.cl/Jornada-Inteligencia-Artificial-Salud-Innovacion-implementacion-Nuestra-Realidad.php">Jornada de Inteligencia Artificial en Salud: Innovación e Implementación en Nuestra Realidad</a></li>
+</ul>
+
+<h3 id="julio">Julio</h3>
+
+<ul>
+  <li>🗓️ 02/07/2025: <a href="https://www.uai.cl/eventos/designlab/inteligencia-artificial-paisajismo-y-naturaleza-sintetica">Inteligencia artificial, paisajismo y naturaleza sintética</a></li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Cansado de charlas, posts, presentaciones de proveedores buscaba un espacio para participar de nuevo en difusión de IA, veamos si lo logré.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/imgs/imagen_portada_post5.jpeg" /><media:content medium="image" url="http://localhost:4000/imgs/imagen_portada_post5.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Hice un Máster en IA: Lo bueno, lo malo y lo feo.</title><link href="http://localhost:4000/2025/03/09/post_4_magister.html" rel="alternate" type="text/html" title="Hice un Máster en IA: Lo bueno, lo malo y lo feo." /><published>2025-03-09T00:00:00-03:00</published><updated>2025-03-09T00:00:00-03:00</updated><id>http://localhost:4000/2025/03/09/post_4_magister</id><content type="html" xml:base="http://localhost:4000/2025/03/09/post_4_magister.html"><![CDATA[<p><img src="/imgs/DSC00227.JPG" style="width: 100%; max-width: none; margin: 0 auto; display: block;" alt="Planner" /></p>
 
 <h2 id="introducción">Introducción</h2>
 
@@ -199,7 +314,7 @@ Ante la negativa de los proyectos y esa frustración, decidí 2 cosas. La primer
 
 <p>Ojalá haya abarcado dudas que pueden ir saliendo a la hora de elegir o no una maestría en IA y si tienes más dudas puedes escribirme por <a href="https://www.linkedin.com/in/daniel-vargas-3989a4126/">LinkedIn</a>. Finalmente, si te motivaste y quieres hacerlo, solo mentalízate que son 2 años, requiere esfuerzo, tiempo, dedicación y mucha carga, pero si vibras con este campo solamente disfruta el proceso.</p>
 
-<p>Hace un tiempo, una persona me escribió referente a esto mismo y tenía pendiente consolidar eso y otras dudas que me han preguntado referente a realizar un máster. Espero verte por alguno de mis posts y que sigas leyendo el contenido. Nos vemos en la siguiente entrada.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Probando descripción para el post del MIA de la PUC.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/imgs/DSC00227.JPG" /><media:content medium="image" url="http://localhost:4000/imgs/DSC00227.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">¿IA en Marketing? Cómo las Imágenes Generativas Están Cambiando el Juego</title><link href="http://localhost:4000/2025/02/18/post_3_mkting.html" rel="alternate" type="text/html" title="¿IA en Marketing? Cómo las Imágenes Generativas Están Cambiando el Juego" /><published>2025-02-18T00:00:00-03:00</published><updated>2025-02-18T00:00:00-03:00</updated><id>http://localhost:4000/2025/02/18/post_3_mkting</id><content type="html" xml:base="http://localhost:4000/2025/02/18/post_3_mkting.html"><![CDATA[<p><img src="/imgs/imagen_portada_post3_v8.jpeg" style="width: 100%; max-width: none; margin: 0 auto; display: block;" alt="Planner" /></p>
+<p>Hace un tiempo, una persona me escribió referente a esto mismo y tenía pendiente consolidar eso y otras dudas que me han preguntado referente a realizar un máster. Espero verte por alguno de mis posts y que sigas leyendo el contenido. Nos vemos en la siguiente entrada.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Con honestidad y detalle, revelo lo que implica realmente cursar un Máster en Inteligencia Artificial, desde la selección del programa hasta las noches de estudio y las lecciones aprendidas en el camino.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/imgs/DSC00227.JPG" /><media:content medium="image" url="http://localhost:4000/imgs/DSC00227.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">¿IA en Marketing? Cómo las Imágenes Generativas Están Cambiando el Juego</title><link href="http://localhost:4000/2025/02/18/post_3_mkting.html" rel="alternate" type="text/html" title="¿IA en Marketing? Cómo las Imágenes Generativas Están Cambiando el Juego" /><published>2025-02-18T00:00:00-03:00</published><updated>2025-02-18T00:00:00-03:00</updated><id>http://localhost:4000/2025/02/18/post_3_mkting</id><content type="html" xml:base="http://localhost:4000/2025/02/18/post_3_mkting.html"><![CDATA[<p><img src="/imgs/imagen_portada_post3_v8.jpeg" style="width: 100%; max-width: none; margin: 0 auto; display: block;" alt="Planner" /></p>
 
 <h2 id="introducción">Introducción</h2>
 
