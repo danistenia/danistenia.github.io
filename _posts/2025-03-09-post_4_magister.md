@@ -64,12 +64,6 @@ Mi elección fue la Pontificia Universidad Católica por 3 razones:
 - La Católica tiene mucho prestigio a nivel industria/país.
 - Busqué los profes, vi los ramos y creí en el proyecto. (Digo proyecto porque eramos la primera generación del programa)
 
-Mi elección fue la Pontificia Universidad Católica por 3 razones:
-
-- Tenía una malla muy similar a la Universidad de Dortmund que era donde quería estudiar.
-- La Católica tiene mucho prestigio a nivel industria/país.
-- Busqué los profes, vi los ramos y creí en el proyecto. (Digo proyecto porque éramos la primera generación del programa)
-
 ## Dentro del Magíster
 
 Una vez dentro del magíster y tomándome un "sabático" del trabajo, pude dedicarme a estudiar solamente. Eso duró solo 7 meses, puesto que empecé a comerme mis ahorros y nunca abandoné mi departamento y mis deudas, así que en algún momento tuve que buscar trabajo y convivir con mi nuevo trabajo y el máster. El trabajo que encontré fue de Data Scientist, que era lo que yo quería en aquel tiempo, y siendo sincero no podría decir que fue gracias al Magíster que encontré ese trabajo.
