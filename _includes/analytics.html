@@ -1,0 +1,35 @@
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YMG4P0THXT"></script>
+<script>
+  // Evita medir en localhost o builds de previsualización
+  (function(){
+    var isLocal = ["localhost", "127.0.0.1"].includes(location.hostname);
+    var isPreview = document.documentElement.hasAttribute("data-preview");
+    if (isLocal || isPreview) return; // no cargar GA
+
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);} // eslint-disable-line no-inner-declarations
+    window.gtag = gtag;
+
+    gtag('js', new Date());
+
+    // Configuración base + anonimización de IP
+    gtag('config', 'G-YMG4P0THXT', {
+      'anonymize_ip': true
+      // , 'debug_mode': true // <- activa solo para pruebas
+    });
+
+    // (Opcional) Clicks a enlaces externos
+    document.addEventListener('click', function(e){
+      const a = e.target.closest('a');
+      if (!a) return;
+      const isExternal = a.host && a.host !== location.host;
+      if (isExternal) {
+        gtag('event', 'click', {
+          event_category: 'outbound',
+          event_label: a.href
+        });
+      }
+    }, true);
+  })();
+</script>
