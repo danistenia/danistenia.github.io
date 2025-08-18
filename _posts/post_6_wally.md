@@ -5,7 +5,7 @@ description: "Hace bastante tiempo que quería realizar este proyecto. Venía ha
 image: IMAGEN
 ---
 
-<img src="LINK IMAGEN" style="width: 100%; max-width: none; margin: 0 auto; display: block;" alt="IA Tinkerers">
+<img src="IMAGEN" style="width: 100%; max-width: none; margin: 0 auto; display: block;" alt="IA Tinkerers">
 
 ## La motivación
 

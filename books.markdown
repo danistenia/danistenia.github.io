@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: libros_index
 title: "Libros"
 permalink: /libros/
 ---
