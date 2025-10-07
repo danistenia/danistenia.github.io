@@ -23,7 +23,8 @@
   <link rel="canonical" href="http://localhost:4000/libros/">
 
   <!-- CSS principal -->
-  <link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Ideas en Papel" />
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="stylesheet" href="/assets/css/custom.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Ideas en Papel" />
 </head>
 </head>
 
@@ -51,7 +52,36 @@
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        <div class="home">
+        <style>
+/* --- Ajustes específicos para versión móvil --- */
+@media (max-width: 768px) {
+  .post-list .post-item {
+    flex-direction: column !important;      /* imagen arriba, texto debajo */
+    align-items: stretch !important;
+  }
+
+  .post-list .post-item img {
+    width: 100% !important;
+    height: auto !important;
+    margin: 0 0 12px 0 !important;
+  }
+
+  /* Oculta solo la descripción en móvil */
+  .post-list .post-item .post-excerpt {
+    display: none !important;
+  }
+
+  /* Si también quieres ocultar la fecha, descomenta la siguiente línea */
+  /* .post-list .post-item .post-date { display: none !important; } */
+
+  .post-list .post-item h2 {
+    margin: 8px 0 0 0 !important;
+    text-align: left;
+  }
+}
+</style>
+
+<div class="home">
   <h1></h1>
 
   <div class="post-list">
@@ -66,7 +96,7 @@
 
         <!-- Título, fecha y descripción -->
         <div style="display: flex; flex-direction: column; justify-content: center;">
-          <p style="margin: 0; color: #666; font-size: 0.9em;">
+          <p class="post-date" style="margin: 0; color: #666; font-size: 0.9em;">
             <small>Aug 18, 2025</small>
           </p>
           <h2 style="margin: 5px 0;">
@@ -74,7 +104,7 @@
               Open - Andre Agassi
             </a>
           </h2>
-          <p style="margin: 5px 0; color: #333;">
+          <p class="post-excerpt" style="margin: 5px 0; color: #333;">
             No siempre das con el libro correcto, pero todo libro te deja algo. Open no es la excepción.
           </p>
         </div>

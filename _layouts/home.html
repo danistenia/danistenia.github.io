@@ -2,23 +2,60 @@
 layout: default
 ---
 
+<style>
+/* --- Ajustes específicos para versión móvil --- */
+@media (max-width: 768px) {
+  .post-list .post-item {
+    flex-direction: column !important;      /* imagen arriba, texto debajo */
+    align-items: stretch !important;
+  }
+
+  .post-list .post-item img {
+    width: 100% !important;
+    height: auto !important;
+    margin: 0 0 12px 0 !important;
+  }
+
+  /* Oculta solo la descripción en móvil */
+  .post-list .post-item .post-excerpt {
+    display: none !important;
+  }
+
+  /* Si también quieres ocultar la fecha, descomenta la siguiente línea */
+  /* .post-list .post-item .post-date { display: none !important; } */
+
+  .post-list .post-item h2 {
+    margin: 8px 0 0 0 !important;
+    text-align: left;
+  }
+}
+</style>
+
 <div class="home">
-  <h1>{{ "" | default: ""}}</h1>
+  <h1>{{ "" | default: "" }}</h1>
 
   <div class="post-list">
     {% for post in site.posts %}
       <div class="post-item" style="display: flex; margin-bottom: 20px; align-items: center;">
 
-        <!-- Muestra la imagen del post si está definida -->
+        <!-- Imagen del post -->
         {% if post.image %}
           <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" style="width: 200px; height: 120px; margin-right: 20px; border-radius: 8px; object-fit: cover; flex-shrink: 0;">
         {% endif %}
 
-        <!-- Título, fecha y descripción del post -->
+        <!-- Contenedor de texto -->
         <div style="display: flex; flex-direction: column; justify-content: center;">
-          <p style="margin: 0; color: #666; font-size: 0.9em;"><small>{{ post.date | date: "%b %-d, %Y" }}</small></p>
-          <h2 style="margin: 5px 0;"><a href="{{ post.url | relative_url }}" style="text-decoration: none; color: #007ACC;">{{ post.title }}</a></h2>
-          <p style="margin: 5px 0; color: #333;">{{ post.description | default: "Sin descripción disponible." }}</p>
+          <p class="post-date" style="margin: 0; color: #666; font-size: 0.9em;">
+            <small>{{ post.date | date: "%b %-d, %Y" }}</small>
+          </p>
+          <h2 style="margin: 5px 0;">
+            <a href="{{ post.url | relative_url }}" style="text-decoration: none; color: #007ACC;">
+              {{ post.title }}
+            </a>
+          </h2>
+          <p class="post-excerpt" style="margin: 5px 0; color: #333;">
+            {{ post.description | default: "Sin descripción disponible." }}
+          </p>
         </div>
       </div>
 
