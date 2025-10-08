@@ -1,4 +1,125 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-10-06T22:51:08-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Ideas en Papel</title><subtitle>📓 Este es mi espacio personal para escribir  sobre AI, productividad, ideas, etc. Nace de la necesidad de plasmar lo que hay en mi cabeza  en alguna pequeña parte del mundo 🌎.</subtitle><entry><title type="html">Volver a creer: Mi reecuentro con los eventos de IA</title><link href="http://localhost:4000/2025/05/10/post_5_ai_tinkerers.html" rel="alternate" type="text/html" title="Volver a creer: Mi reecuentro con los eventos de IA" /><published>2025-05-10T00:00:00-04:00</published><updated>2025-05-10T00:00:00-04:00</updated><id>http://localhost:4000/2025/05/10/post_5_ai_tinkerers</id><content type="html" xml:base="http://localhost:4000/2025/05/10/post_5_ai_tinkerers.html"><![CDATA[<p><img src="/imgs/imagen_portada_post5.jpeg" style="width: 100%; max-width: none; margin: 0 auto; display: block;" alt="IA Tinkerers" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-10-08T11:49:29-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Ideas en Papel</title><subtitle>📓 Este es mi espacio personal para escribir  sobre AI, productividad, ideas, etc. Nace de la necesidad de plasmar lo que hay en mi cabeza  en alguna pequeña parte del mundo 🌎.</subtitle><entry><title type="html">La receta para convertirte en Jefe de IA (Mentira)</title><link href="http://localhost:4000/2025/10/06/post_7_jefe.html" rel="alternate" type="text/html" title="La receta para convertirte en Jefe de IA (Mentira)" /><published>2025-10-06T00:00:00-03:00</published><updated>2025-10-06T00:00:00-03:00</updated><id>http://localhost:4000/2025/10/06/post_7_jefe</id><content type="html" xml:base="http://localhost:4000/2025/10/06/post_7_jefe.html"><![CDATA[<p><img src="/imgs/DSC00580.JPG" style="width: 100%; max-width: none; margin: 0 auto; display: block;" alt="Imagen Post Líder" /></p>
+
+<h2 id="la-intro">La Intro</h2>
+
+<p>Deja botar un poco.</p>
+
+<p>¿No parece que hemos romantizado un poco el trabajar lo necesario y ocuparnos de nuestras vidas porque se supone que el trabajo no es la vida misma? Naturalmente que el trabajo no es la vida misma, de hecho, pienso que laboralmente, en algunas fases, me lo he tomado todo muy en serio y eso me ha afectado, pero hoy no quiero romantizar nada y declaro desde el inicio que para poder llegar a ser líder de analítica e IA, di hartas veces <strong>la criticada milla extra</strong>. Claramente, he tenido que regular porque eso me ha afectado en mi vida personal, pero dejemos eso para otro post, ¿te parece?</p>
+
+<p>Seamos sinceros, para lograr lo que queremos tenemos que esforzarnos. Hay que remar más fuerte, hay que buscar, demostrar y muchas veces echarse al equipo al hombro. Si la intención inicial de nuestra meta es alta y estamos apuntando alto, el esfuerzo debe estar sincronizado con ese propósito.</p>
+
+<p>Mira, iré más allá aún porque quiero sentir que estoy siendo políticamente incorrecto. En mi caso, si me hubiera limitado solo al trabajo de oficina, nada de esto hubiera pasado. Dije: “en mi caso” por si acaso.</p>
+
+<p>Algunas veces me levanté temprano, otras me quedé hasta mucho más tarde. Programé e hice cosas que nadie me pidió. Si piensas en las analogías del fútbol que siempre son buenas para representar ejemplos de nuestra vida, cuando ganas nunca lo atribuyas a una sola cosa, son muchas pequeñas que desencadenan el efecto dominó.</p>
+
+<p><strong>¿Podría haber sido distinto?</strong> Obvio.</p>
+
+<p><strong>¿Es la receta?</strong> No sé, aquí solo te cuento lo que yo hice con su respectivo resultado final.</p>
+
+<p>Hoy te hablo de lo que creo que me llevó a que yo tuviera un ascenso de líder de un equipo de científicos de datos y posterior equipo de IA (o GenAI para los puristas como yo).</p>
+
+<h2 id="la-historia">La Historia</h2>
+
+<p>Partamos por la historia, toma asiento un rato, siéntate y apaga la cabeza, sé que es difícil, pero está buena.</p>
+
+<p>Febrero 2022 entré a Banco BICE como científico de datos y para mí fue un tremendo logro. Tenía 2 jefes, un subgerente y un jefe directo. Mi jefe directo de aquel tiempo tomó otra oportunidad y el puesto de jefe quedó libre (¿al abordaje muchachos?). Estuvimos sin jefe harto tiempo y cuando eso ocurrió empecé -sin querer- a edificar mi camino como líder.</p>
+
+<p>La pregunta es,</p>
+
+<p><strong>¿Hice algo distinto?</strong> Obvio que sí, pero nunca fue buscando un ascenso.</p>
+
+<p>Viendo que había cosas que necesitaban hacerse, partí por el día a día. 
+Solo porque soy muy inquieto y exigente conmigo mismo y mi entorno, tomé las riendas de programar con buenas prácticas haciéndole sesiones al equipo, estandaricé ciertas formas de programar, cree algunas instancias para debatir ideas y nuevos proyectos. Algunas de estas ideas funcionaron y otras no, pero lo importante es siempre el objetivo, la dirección del vector.</p>
+
+<h2 id="el-día-d">El día D</h2>
+
+<p>Luego de esto, mi jefe, viendo que en teoría era el “más metido” del área, me mandó CV’s para tener mi opinión respecto a candidatos a ser mis futuros jefes. Esto no me gustó, y cuando me preguntó: ¿Por qué no te gustan los candidatos? Mi respuesta fue:</p>
+
+<blockquote>
+  <p>Porque soy mejor que ellos. (Igual era verdad JAJA)</p>
+</blockquote>
+
+<blockquote>
+  <p>Jajaja. Postula tú entonces.</p>
+</blockquote>
+
+<blockquote>
+  <p>Estoy postulando ahora mismo.</p>
+</blockquote>
+
+<p>Esa conversa fue la gota que rompió la roca. Se creó una grieta y se abrió una oportunidad. Tras conversaciones y discusiones, se logró llegar a puerto y el ascenso tenía ya una fecha definida. Ahora bien, como todo lo que hago en la vida me cuesta el doble, el ascenso <strong>se concretó 7 meses después</strong> de saber que yo sería la persona que lideraría el equipo. Lección importante y que me hace sentir más viejo: todo llega a su tiempo, se demora, pero llega.</p>
+
+<h2 id="las-cosas-que-ayudan---one-liners">Las cosas que ayudan - One liners</h2>
+
+<ol>
+  <li>
+    <p><strong>Un buen lugar:</strong> Un lugar que te permita crecer y exista espacio para ello, ayuda.</p>
+  </li>
+  <li>
+    <p><strong>Un buen jefe:</strong> Sin un buen jefe o alguien que te impulse, está difícil.</p>
+  </li>
+  <li>
+    <p><strong>¿Saber lo técnico?:</strong> Hay mucho fanatismo respecto a que un jefe no tiene que saber lo técnico. Yo soy fan de lo otro, tienes que saber hacer el trabajo de mi equipo. Estudio harto y sigo programando aún, entonces eso me permite poder sentarme con ellos si es que algo no resulta. Soy como medio el “senior” del equipo. Yo creo que esa seguridad ayuda mucho a la confianza de ellos en ti y de ti en ti mismo. Para mí esto es <strong>CLAVE.</strong></p>
+  </li>
+  <li>
+    <p><strong>¿Seguir programando?:</strong> Obvio. ¿Cómo pretendemos liderar áreas técnicas si como líderes no seguimos programando o mejorando?</p>
+  </li>
+  <li>
+    <p><strong>El espacio:</strong> Tiene que estar el espacio, puedes ser muy bueno, pero si no está el espacio está complicado lograr tener el ascenso.</p>
+  </li>
+  <li>
+    <p><strong>Ser inquieto:</strong> Si no quieres probar cosas nuevas, no tienes ideas, no propones, no te sales del libreto, está difícil.</p>
+  </li>
+  <li>
+    <p><strong>Clientes internos:</strong> Interactuar con el negocio o tus clientes ayuda bastante a que te contacten y puedas entender sus dolores.</p>
+  </li>
+  <li>
+    <p><strong>Que te conozcan:</strong> Si tienes buenos wins y te conocen, siempre ayuda.</p>
+  </li>
+  <li>
+    <p><strong>Hablar bien en público, presentar bien:</strong> En nuestra área esto sí que es complicado, pero trabajarlo creo que es clave. Practícalo.</p>
+  </li>
+  <li>
+    <p><strong>No enojarte:</strong> No sé si soy el mejor para hablar de esto porque soy muy enojón, pero he aprendido a respirar 10 veces más que antes.</p>
+  </li>
+  <li>
+    <p><strong>Conectar lo técnico con el negocio:</strong> Esto sí que es un skill. ¿Qué sacamos con tener un master o un diplomado o años programando si no podemos conectar lo técnico con un problema? Exacto, no sirve de nada.</p>
+  </li>
+  <li>
+    <p><strong>Entender el negocio:</strong> Esto te lo da la experiencia, pero creo que puede ayudar mucho siempre preguntar 30 veces: ¿Por qué esto es un problema? <strong>Entiende bien el problema, SIEMPRE.</strong></p>
+  </li>
+  <li>
+    <p><strong>Ser ágil de mente:</strong> Trata de estar presente y fresco. Salir rápido ante la presión.</p>
+  </li>
+  <li>
+    <p><strong>Mirar hacia el futuro:</strong> Creo que el líder tiene que tener algo que no necesariamente el equipo tiene: visión de hacia dónde queremos llegar y hacia dónde deberíamos apuntar. Siempre adelántate hacia dónde debería ir el equipo.</p>
+  </li>
+  <li>
+    <p><strong>Adelántate a los posibles errores, ¿tienes esa capacidad?:</strong> El líder debe anticiparse a los problemas, a la factibilidad, a los cuellos de botella, a la solución final. Eso es difícil, pero se puede desarrollar.</p>
+  </li>
+  <li>
+    <p><strong>Comunícate:</strong> No hay nada mejor que escuchar a alguien que quiera más. Habla con tus líderes de tus expectativas, preferencias o dónde te gustaría estar.</p>
+  </li>
+  <li>
+    <p><strong>Se humilde:</strong> Piensa, ¿por qué la persona del frente lidera y tú no? ¿Qué te falta? ¿Mueve las manos diferentes? ¿Habla distinto? ¿Es más inteligente? Te falta estudiar? Por favor, siempre mira. Lo mejor que podemos hacer es ser humildes.</p>
+  </li>
+</ol>
+
+<p>Podría seguir hasta mañana, pero si alguna de estas numeraciones te llega en algo, buenísimo. Quédate con alguna, yo seguiré trabajando en mi enojo.</p>
+
+<h2 id="el-cierre">El cierre</h2>
+
+<p>Para cerrar, quiero decir que cuando asumí de líder nunca estuve preparado, obvio que no estuve preparado. ¿Quién lo está?</p>
+
+<p>Lo importante es abrazar el proceso e ir construyéndose. Voy por mi tercer año liderando y creo que cada año ha sido una versión distinta mía. Lo que te conté en estas líneas son simplemente mi historia, lo que me esforcé y sigo esforzando día a día.</p>
+
+<p>Dije que el título era mentira porque no hay receta, pero si pudiese darte un consejo que <strong>quizás</strong> puede funcionar y a mí me funcionó: <strong>“Esfuérzate más que todos”</strong>.</p>
+
+<p>Si te gusta lo técnico y por cosas de la vida hoy lideras y no quieres soltar lo técnico, un hack que me dio un jefe es el siguiente: “Siempre quédate con algún proyecto para que no te aburras”.</p>
+
+<p>¡Listo! No paro de darte consejos, qué buen post! jaja.</p>
+
+<p>Hasta la próxima, eso es todo amigos.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Como dijo Kung Fu Panda, no hay un ingrediente secreto, pero te cuento mi camino y experiencia.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/imgs/DSC00580.JPG" /><media:content medium="image" url="http://localhost:4000/imgs/DSC00580.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Volver a creer: Mi reecuentro con los eventos de IA</title><link href="http://localhost:4000/2025/05/10/post_5_ai_tinkerers.html" rel="alternate" type="text/html" title="Volver a creer: Mi reecuentro con los eventos de IA" /><published>2025-05-10T00:00:00-04:00</published><updated>2025-05-10T00:00:00-04:00</updated><id>http://localhost:4000/2025/05/10/post_5_ai_tinkerers</id><content type="html" xml:base="http://localhost:4000/2025/05/10/post_5_ai_tinkerers.html"><![CDATA[<p><img src="/imgs/imagen_portada_post5.jpeg" style="width: 100%; max-width: none; margin: 0 auto; display: block;" alt="IA Tinkerers" /></p>
 
 <h2 id="introducción">Introducción</h2>
 
